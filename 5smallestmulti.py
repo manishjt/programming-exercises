@@ -1,3 +1,5 @@
+__author__ = "Manish J. Thapa"
+
 from __future__ import division
 
 import numpy as np
