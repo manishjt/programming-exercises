@@ -1,3 +1,5 @@
+__author__ = "Manish J. Thapa"
+
 import numpy as np
 
 def fib(i):
