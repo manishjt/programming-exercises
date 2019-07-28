@@ -1,3 +1,5 @@
+__author__ = "Manish J. Thapa"
+
 def prime_factors(n):
     """Returns all the prime factors of a positive integer"""
     factors = []
