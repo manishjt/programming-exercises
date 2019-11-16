@@ -20,9 +20,4 @@ for i in range(40):
 		 break
 print 'sum', sum(j for j in fibarray if j%2==0)
 
-#elegant
-#ls = [1,2]
-#while ls[-1] < 4000000:
-#    ls.append(ls[-1]+ls[-2])
-#print(sum([x for x in ls if x%2==0 ]))
 
